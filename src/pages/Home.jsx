@@ -1,4 +1,4 @@
-import Hero from "@/components/Hero";
+import Hero2 from "@/components/Hero2";
 import SEO from "@/components/SEO";
 import Features from "@/components/Features";
 import Collections from "@/components/Collections";
@@ -90,7 +90,7 @@ export default function Home() {
       />
 
       
-      <Hero />
+      <Hero2 />
 
 
       <Features />      <ShopByCategory categories={data.categories} />
