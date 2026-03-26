@@ -14,7 +14,8 @@ import {
   Loader2,
   Calendar,
   ArrowRight,
-  ShoppingCart
+  ShoppingCart,
+  ChevronRight
 } from 'lucide-react';
 import { cn } from '../lib/utils';
 import SEO from '@/components/SEO';
